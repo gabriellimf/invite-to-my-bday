@@ -1,0 +1,1 @@
+web: vendor/bin/heroku-php-apache2 /invite-to-my-bday/public/
